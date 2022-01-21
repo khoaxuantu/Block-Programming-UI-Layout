@@ -35,6 +35,8 @@ You can perform several UI actions on the *Tool Box*
 ### File handling
 By clicking the *File* button, the drop down list of file actions will be displayed, and you can start opening, saving or closing their file.
 
+**Note:** I have not finished the file handling functions, so there will be nothing if you click on these buttons.
+
 ![](/README_resources/1.png)
 
 ### Documentation
