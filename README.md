@@ -64,4 +64,4 @@ You can hold your left-click on the block then drag and dop onto the "Editing Bo
 ### Terminal
 You can read your output result on the *Terminal*, which is the black field on downer corner of your screen.
 
-However, because our project has not finished yet, there won't be no displayed result. 
+However, because our project has not finished yet, there will be no displayed result. 
